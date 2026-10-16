@@ -1,0 +1,14 @@
+vendor/
+node_modules/
+.env
+.DS_Store
+uploads/backup/
+uploads/photos/*
+!uploads/photos/default.png
+!uploads/photos/.gitkeep
+uploads/logos/*
+!uploads/logos/.gitkeep
+writable/cache/
+writable/logs/
+writable/session/
+writable/debugbar/
